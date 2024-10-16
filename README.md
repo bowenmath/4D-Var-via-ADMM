@@ -67,3 +67,15 @@ The above codes are implemented by Python. The below uses Matlab for the impleme
 
     > bluered.m  
     *This is the customized display color.*
+
+## Citing
+
+If you use `4D-Var-via-ADMM` in an academic paper, please cite the main references as follows:
+```
+@article{li2024numerical,
+  title={Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM},
+  author={Li, Bowen and Shi, Bin},
+  journal={arXiv preprint arXiv:2410.04471},
+  year={2024}
+}
+```
