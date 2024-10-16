@@ -1,10 +1,20 @@
-## ADMM for 4D-Var
+# ADMM for 4D-Var
 
 This is the repository for the source code of the paper
 
 > [Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM](https://arxiv.org/abs/2410.04471), Bowen Li and Bin Shi.
 
 The codes are implementations of linearized multi-block ADMM for solving four-dimension variational data assimilation problem (4D-Var) of Lorenz63 model, Burgers equation, and 2D vorticity equation.
+
+## Requirements
+
+- Python 3
+- Numpy
+- Scipy
+- Matplotlib
+- Matlab
+
+## File structure
 
 The file structure is as following.
 
